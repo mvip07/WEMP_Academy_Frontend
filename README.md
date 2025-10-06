@@ -3,8 +3,11 @@
 **Full Stack Frontend Engineer (HTML → CSS → Sass → Bootstrap → Tailwind → JS → TS → React → Next.js)**
 
 > 🎯 Maqsad: 0 dan boshlagan talaba **Senior Frontend Developer** darajasiga chiqadi.
+
 > ⏰ Muddat: ~120 kun (4 oy, har kuni 2–3 soat)
+
 > 📚 Format: Nazariya + Amaliy loyiha + Middle Exam + Final Exam
+
 > 💼 Daraja: Beginner → Advanced → Senior
 
 ---
