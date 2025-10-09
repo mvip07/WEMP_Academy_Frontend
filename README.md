@@ -1,3 +1,32 @@
+# 🧠 Foundation ROADMAP
+
+| №      | Mavzu nomi                                    | Mazmuni                                                                | Natija                                              |
+| ------ | --------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------- |
+| **1**  | **Kompyuter nima?**                           | Kompyuter tarixi, vazifasi, ishlash prinsipi, input/output qurilmalar  | Kompyuter tushunchasi va ishlash mantig‘i           |
+| **2**  | **Kompyuter turlari va qismlari**             | Desktop, Laptop, Server; CPU, RAM, HDD, SSD, GPU, Motherboard          | Ichki qismlarni bilish va farqlay olish             |
+| **3**  | **Notebook va uning turlari**                 | Ultrabook, Gaming, Business, Convertible; qaysi biri kimga mos         | Notebook tanlashni o‘rganish                        |
+| **4**  | **Operatsion tizimlar (OS)**                  | Windows, macOS, Linux, Android, iOS – farqlari va ishlash logikasi     | OS turlari va interfeyslarini farqlay olish         |
+| **5**  | **Fayl tizimi va fayllar bilan ishlash**      | Papkalar, fayl kengaytmalari (.exe, .jpg, .mp4), fayl yo‘llari, backup | Fayl tuzilmasi va boshqaruv ko‘nikmasi              |
+| **6**  | **Internet nima va qanday ishlaydi**          | IP-manzil, DNS, brauzer, server, client, URL tushunchalari             | Internet ishlash mantig‘ini tushunish               |
+| **7**  | **Bulutli texnologiyalar va elektron pochta** | Google Drive, Dropbox, OneDrive, Email, Google account                 | Bulutli xizmatlar bilan ishlay olish                |
+| **8**  | **Middle Exam (2 soat)**                      | Test: kompyuter qismlari, OS, internet, fayl tizimi                    | Asosiy bilimlarni mustahkamlash                     |
+| **9**  | **Keyboard va typing asoslari**               | Klaviatura turlari (QWERTY, QAZ), asosiy tugmalar, shortcut’lar        | Klaviaturani to‘g‘ri ishlatish                      |
+| **10** | **Montotype / Touch Typing**                  | Barmoqlar joylashuvi, “home row” pozitsiyasi, typing mashqlar          | 10 barmoq bilan tez yozishni o‘rganish              |
+| **11** | **Typing Practice va Testlar**                | TypingClub, MonkeyType, Keybr mashqlari                                | WPM (Words Per Minute) o‘lchash, tez yozish         |
+| **12** | **Final Exam (2 soat)**                       | Nazariy + amaliy test: kompyuter, internet, typing                     | Kompyuter savodxonligi bo‘yicha sertifikat darajasi |
+
+---
+
+## 💻 Tavsiya etilgan vositalar
+
+* **TypingClub** — [https://www.typingclub.com/](https://www.typingclub.com/)
+* **Monkeytype** — [https://monkeytype.com/](https://monkeytype.com/)
+* **Keybr** — [https://www.keybr.com/](https://www.keybr.com/)
+* **Google Docs / Notepad / VS Code** — yozish mashqlari uchun
+* **Quizizz / Kahoot** — testlar uchun
+
+---
+
 # 🧠 FRONTEND MASTER ROADMAP
 
 **Full Stack Frontend Engineer (HTML → CSS → Sass → Bootstrap → Tailwind → JS → TS → React → Next.js)**
